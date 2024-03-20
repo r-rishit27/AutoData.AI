@@ -1,5 +1,4 @@
-def generate_readme():
-    readme_content = """
+
 # AutoData.AI
 
 AutoData.AI is an automated data analytics and visualization tool built using OpenAI API and concepts of generative AI. The tool is deployed on Streamlit using the PandasAI LLM framework with the SmartDataframe framework.
@@ -46,6 +45,3 @@ Please ensure that your contributions adhere to the project's coding standards a
 
     with open("README.md", "w") as readme_file:
         readme_file.write(readme_content)
-
-# Call the function to generate the README file
-generate_readme()
