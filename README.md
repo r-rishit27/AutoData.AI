@@ -3,6 +3,9 @@
 
 AutoData.AI is an automated data analytics and visualization tool built using OpenAI API and concepts of generative AI. The tool is deployed on Streamlit using the PandasAI LLM framework with the SmartDataframe framework.
 
+![Demo](https://github.com/r-rishit27/AutoData.AI/blob/main/demo.png)
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
